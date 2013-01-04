@@ -1,0 +1,6 @@
+name: HerochatTest
+main: org.gnomeffinway.herochat.HerochatTest
+version: 0.1
+author: GnomeffinWay
+
+depend: [Herochat]
